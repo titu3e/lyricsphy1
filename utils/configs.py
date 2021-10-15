@@ -33,7 +33,7 @@ class Tr(object):
     START_TEXT = """
 👋 Hi ! {} Welcome To @PyLyricsBot !
 
-PyLyrics Is An [Open-Source](https://github.com/AmineSoukara/PyLyricsBot/fork) Bot That Can Help You Get Song Lyrics
+PyLyrics Is An Bot That Can Help You Get Song Lyrics
 """
 
     ABOUT_TEXT = """🤖 **My Name:** [Py Lyrics](t.me/PyLyricsBot)
@@ -44,21 +44,16 @@ PyLyrics Is An [Open-Source](https://github.com/AmineSoukara/PyLyricsBot/fork) B
 
 📡 **Hosted On:** [Heroku](heroku.com)
 
-👨‍💻 **Developer:** [Amine Soukara](t.me/AmineSoukara)
+👨‍💻 **Developer:** [Sungjinwooarc](t.me/Sungjinwooarc)
 
-💡 **Source Code:** [Github](https://github.com/AmineSoukara/PyLyricsBot/fork)
+👥 **Support Group:** [Manhwarecommend](https://t.me/manhwarecommend)
 
-👥 **Support Group:** [Damien Help](https://t.me/DamienHelp)
-
-📢 **Updates Channel:** [Damien Soukara](https://t.me/DamienSoukara)
+📢 **Updates Channel:** [Manhwarecommend](https://t.me/manhwarecommend)
 
 
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
 """
 
     HELP_TEXT = """💡 Just Send Me The Name Of The Song.  That's it
-
-❤ [Donate](https://www.paypal.me/AmineSoukara) (PayPal)
 """
 
     ERR_TEXT = "⚠️ Genius API Not Found"
