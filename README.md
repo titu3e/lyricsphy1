@@ -1,6 +1,6 @@
 
 <p align="center"><a href="#"><img src="https://thumbs.gfycat.com/BigThunderousAppaloosa-max-1mb.gif" width="250"></a></p> 
-<h1 align="center"><b>PyLyrics-Bot</b></h1>
+<h1 align="center"><b>Lyricsphy-Bot</b></h1>
 <h4 align="center">Telegram Bot To Search Song Lyrics From Genuis.</h4>
 
 ![GitHub Repo Stars](https://img.shields.io/github/stars/AmineSoukara/PyLyricsBot?color=blue&style=plastic&logo=github)
