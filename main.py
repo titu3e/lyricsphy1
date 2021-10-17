@@ -24,9 +24,8 @@ START_BTN = ikb(
         [
             ("💬 Manga group", "https://t.me/ifoejeje", "url"),
             ("🗣 Support Group", "https://t.me/ifoejeje", "url"),
-        ], 
+        ],
         [
-            
             ("👨‍💻 Developer", "@Sungjinwooarc", "url"),
         ],
     ]
