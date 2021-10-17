@@ -17,20 +17,16 @@ Ly = Client(
 
 genius = Genius(Var.API)
 
-STARTPIC = "https://i.imgur.com/gv2SzKr.jpg"
+STARTPIC = "https://telegra.ph/file/0355a252d173de392c539.png"
 
 START_BTN = ikb(
     [
         [
-            ("💬 Manga group", "https://t.me/manhwarecommend", "url"),
-            ("🗣 Support Group", "https://t.me/manhwarecommend", "url"),
+            ("💬 Manga group", "https://t.me/ifoejeje", "url"),
+            ("🗣 Support Group", "https://t.me/ifoejeje", "url"),
         ], 
         [
-            (
-                "🔗 Source Code",
-                "https://github.com/titu3e/PyLyricsBot/",
-                "url",
-            ),
+            
             ("👨‍💻 Developer", "@Sungjinwooarc", "url"),
         ],
     ]
@@ -84,7 +80,7 @@ async def cdata(c, q):
 
         test = f"""<p align="center"><a href="#"><img src="{r.song_art_image_url}" width="250"></a></p>"""
 
-        final = test + f"{lyrics}\n-\n📜 From : @PyLyricsBot"
+        final = test + f"{lyrics}\n-\n📜 From : @Lyricsphy_Bot"
         song_title = r.title
         song_artist = r.artist.replace("&", "ft")
         name = f"{song_title} {song_artist}"
