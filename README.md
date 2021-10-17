@@ -1,5 +1,5 @@
 
-<p align="center"><a href="#"><img src="https://telegra.ph/file/0355a252d173de392c539.png" width="250"></a></p> 
+<p align="center"><a href="#"><img src="https://telegra.ph/file/0355a252d173de392c539.png" width="500"></a></p> 
 <h1 align="center"><b>Lyricsphy-Bot</b></h1>
 <h4 align="center">Telegram Bot To Search Song Lyrics From Genuis.</h4>
 
