@@ -31,29 +31,23 @@ class Var(object):
 class Tr(object):
 
     START_TEXT = """
-👋 Hi ! {} Welcome To @PyLyricsBot !
+👋 Hi  ! {} Welcome To @LyricsphyBot !
 
-PyLyrics Is An Bot That Can Help You Get Song Lyrics
+Lyricsphy Is An Bot That Can Help You Get Song Lyrics
 """
 
-    ABOUT_TEXT = """🤖 **My Name:** [Py Lyrics](t.me/PyLyricsBot)
-
-📝 **Language:** [Python 3](https://www.python.org)
-
-📚 **Framework:** [Pyrogram](https://github.com/pyrogram/pyrogram)
-
-📡 **Hosted On:** [Heroku](heroku.com)
+    ABOUT_TEXT = """🤖 **My Name:** [Lyricsphy](t.me/PyLyricsBot)
 
 👨‍💻 **Developer:** [Sungjinwooarc](t.me/Sungjinwooarc)
 
-👥 **Support Group:** [Manhwarecommend](https://t.me/manhwarecommend)
+👥 **Support Group:** [Manhwarecommend](https://t.me/ifoejeje)
 
-📢 **Updates Channel:** [Manhwarecommend](https://t.me/manhwarecommend)
+📢 **Updates Channel:** [Manhwarecommend](https://t.me/ifoejeje)
 
 
 """
 
-    HELP_TEXT = """💡 Just Send Me The Name Of The Song.  That's it
+    HELP_TEXT = """💡 Just Send Me The Name Of The Song.  That's it.Or if you wanna talk or meet my dev and his team and my friends join the support group join the support group:https://t.me/ifoejeje.
 """
 
     ERR_TEXT = "⚠️ Genius API Not Found"
